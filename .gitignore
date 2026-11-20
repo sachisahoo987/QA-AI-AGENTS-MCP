@@ -6,3 +6,7 @@ playwright-report/
 test-results/
 coverage/
 *.log
+
+# Agensi skill packages (free and paid) and built ZIPs: distributed through Agensi only
+skills/
+*.zip
