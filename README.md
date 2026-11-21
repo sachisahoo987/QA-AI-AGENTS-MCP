@@ -55,8 +55,8 @@ Tests should run against a local or explicitly designated test environment only.
 
 Install these agents as ready-to-use Claude Code skills:
 
-- **[QA Agents Core](<CORE_LISTING_URL>)** (free): the six agents in this repo, packaged as one skill.
-- **[QA Agents Pro](<PRO_LISTING_URL>)**: all six agents plus nine more for failure triage, flaky-test detection, root cause analysis, self-healing locators (web, Android, iOS), risk-based test selection, pairwise testing, API coverage and defect reports, with six tested scripts.
+- **[QA Agents Core](https://agensi.io/skills/qa-agents-core)** (free): the six agents in this repo, packaged as one skill.
+- **[QA Agents Pro](https://agensi.io/skills/qa-agents-pro)**: all six agents plus nine more for failure triage, flaky-test detection, root cause analysis, self-healing locators (web, Android, iOS), risk-based test selection, pairwise testing, API coverage and defect reports, with six tested scripts.
 
 New to Agensi? [Sign up with my referral link](https://agensi.io/r/<MY_USERNAME>).
 
